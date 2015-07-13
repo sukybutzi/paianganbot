@@ -233,10 +233,10 @@
 
     var botCreator = "Alin (qSukky)";
     var botMaintainer = "Paianganbot"
-    var botCreatorIDs = ["3851534", "4105209"];
+    var botCreatorIDs = ["3851753", "4105809"];
 
     var basicBot = {
-        version: "v1.1",
+        version: "1.1",
         status: false,
         name: "paianganbot",
         loggedInID: null,
