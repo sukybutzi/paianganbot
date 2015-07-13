@@ -233,7 +233,7 @@
 
     var botCreator = "Alin (qSukky)";
     var botMaintainer = "Paianganbot"
-    var botCreatorIDs = null;
+    var botCreatorIDs = [];
 
     var basicBot = {
         version: "v1.1",
