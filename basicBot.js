@@ -236,7 +236,7 @@
     var botCreatorIDs = ["3851753", "4105809"];
 
     var basicBot = {
-        version: "1.1",
+        version: "6.6.6",
         status: false,
         name: "paianganbot",
         loggedInID: null,
