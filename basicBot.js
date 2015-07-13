@@ -273,9 +273,9 @@
             voteSkipLimit: 5,
             historySkip: false,
             timeGuard: true,
-            maximumSongLength: 10,
-            autodisable: true,
-            commandCooldown: 30,
+            maximumSongLength: 5,
+            autodisable: false,
+            commandCooldown: 10,
             usercommandsEnabled: true,
             skipPosition: 3,
             skipReasons: [
@@ -306,9 +306,9 @@
             songstats: true,
             commandLiteral: "!",
             blacklists: {
-                NSFW: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/NSFWlist.json",
-                OP: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/OPlist.json",
-                BANNED: "https://rawgit.com/Yemasthui/basicBot-customization/master/blacklists/BANNEDlist.json"
+                NSFW: "https://rawgit.com/aalinnfs/basicBot-customization/master/blacklists/NSFWlist.json",
+                OP: "https://rawgit.com/aalinnfs/basicBot-customization/master/blacklists/OPlist.json",
+                BANNED: "https://rawgit.com/aalinnfs/basicBot-customization/master/blacklists/BANNEDlist.json"
             }
         },
         room: {
