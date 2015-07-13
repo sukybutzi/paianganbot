@@ -725,7 +725,7 @@
                         basicBot.room.skippable = true
                     }, 5 * 1000);
                     setTimeout(function (id) {
-                        basicBot.userUtilities.moveUser(id, basicBot.settings.skipPosition, false);
+                       // basicBot.userUtilities.moveUser(id, basicBot.settings.skipPosition, false);
                         basicBot.room.queueable = true;
                         if (locked) {
                             setTimeout(function () {
